@@ -1,5 +1,7 @@
 # discord-logs
-discord'da log ayarlama
+discord'da gelişmiş log ayarlama
+
+Bu bot sayesinde tam otomatik bir şekilde slaş komutları kullanarak logları ayarlıyor ve istemediğiniz logları butonla kapatabiliyorsunuz. 
 
 `config.json` isimli dosyanın içerisini doldurunuz ondan sonra 
 

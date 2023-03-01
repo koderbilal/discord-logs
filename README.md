@@ -14,6 +14,11 @@ node index.js
 
 Not: Koruma özelliği bakımdadır ve ayrıca diğer `.json` dosyalarını ellemeyiniz.
 
+Botu çalıştırdıktan sonra `/log` yazıp oradan `ayarlar'ı` seçip ayarları bir kanala atın ondan sonra isterseniz `/log` yazıp oradan tek tek log kanallarını elle ayarlayabilirsiniz, ama derseniz ben uğraşmak istemiyorum `/kur` yazıp gönderin kendisi tam otomatik bir şekilde kuracaktır.
+
+dipnot: node v19.2.0 sürümünde ve npm ise 9.1.1 sürümündedir.
+
+
 Örnek görseller aşağıda
 
 ![Alt text](./resim/resim1.jpg "Title")

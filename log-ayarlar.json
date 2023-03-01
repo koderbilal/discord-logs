@@ -1,13 +1,13 @@
 {
           "ayarlar": "1079886999416221787",
-          "mesaj": "1080412369727008780",
+          "mesaj": "1080451776379097128",
           "deney": "xo",
           "koruma": "off",
-          "mesaj_sil": "on",
-          "mesaj_değ": "on",
-          "ses_gir": "on",
-          "ses_cik": "on",
-          "ses_değ": "on",
-          "avatar": "on",
-          "use_na": "on"
+          "mesaj_sil": "off",
+          "mesaj_değ": "off",
+          "ses_gir": "off",
+          "ses_cik": "off",
+          "ses_değ": "off",
+          "avatar": "off",
+          "use_na": "off"
 }

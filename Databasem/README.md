@@ -1,0 +1,1 @@
+database sistemi için geliştiriliyor
